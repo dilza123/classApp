@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">classApp</string>
+    <string name="marks">marks</string>
+    <string name="password">Password</string>
+</resources>
